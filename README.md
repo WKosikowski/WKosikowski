@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WKosikowski
+- 👋 Hi, I'm Wojciech, I'm 13yo, and I enjoy my life learning software 
 - 👀 I’m interested in Spacecraft engineering 
 - 🌱 I’m currently learning maths, Swift and Python
 - 💞️ I’m looking to collaborate on some intriguing Swift of Python project
