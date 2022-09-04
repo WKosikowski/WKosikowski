@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Wojciech, I'm 13yo, and I enjoy my life learning software development and robotics
+- 👋 Hi, I'm Wojciech, I'm 14yo, and I enjoy my life learning software development and robotics
 - 👀 I’m interested in Spacecraft engineering 
 - 🌱 I’m currently learning maths, Swift and Python
 - 💞️ I’m looking to collaborate on some intriguing Swift or Python project
