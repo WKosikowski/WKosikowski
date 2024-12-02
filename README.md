@@ -1,8 +1,6 @@
-- 👋 Hi, I'm Wojciech, I'm 14yo, and I enjoy my life learning software development and robotics
-- 👀 I’m interested in Spacecraft engineering 
-- 🌱 I’m currently learning maths, Swift and Python
-- 💞️ I’m looking to collaborate on some intriguing Swift or Python project
-- 📫 How to reach me? Not sure yet ;)
+-  Hi, I'm Wojciech, I'm 16yo, and I enjoy my life learning software development
+-  I’m interested in Spacecraft engineering 
+-  I’m currently learning Swift and Python
 
 <!---
 WKosikowski/WKosikowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
